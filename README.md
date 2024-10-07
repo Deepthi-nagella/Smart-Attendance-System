@@ -14,12 +14,12 @@ The project folder should be structured as follows:
 
 Attendance-System
 
--> haarcascade_frontalface_default.xml          # Pre-trained Haar Cascade model for face detection
--> test.py                                      # Main script for face detection and attendance
--> names.pkl                                    # Serialized file containing the names/labels of recognized individuals
--> faces_data.pkl                               # Serialized file containing the face data
--> Attendance                                   # Folder where attendance files will be saved
--> background.png                               # UI background image for the attendance system
+-> haarcascade_frontalface_default.xml     -      Pre-trained Haar Cascade model for face detection
+-> test.py                                 -      Main script for face detection and attendance
+-> names.pkl                               -      Serialized file containing the names/labels of recognized individuals
+-> faces_data.pkl                          -      Serialized file containing the face data
+-> Attendance                              -      Folder where attendance files will be saved
+-> background.png                          -      UI background image for the attendance system
 
 
 test.py:
